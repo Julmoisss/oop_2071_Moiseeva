@@ -1,0 +1,9 @@
+D:\Документы\oop\OOP zadanie 2\oop_zadanie_2\oop_zadanie_2\bin\Debug\oop_zadanie_2.exe.config
+D:\Документы\oop\OOP zadanie 2\oop_zadanie_2\oop_zadanie_2\obj\Debug\oop_zadanie_2.Form1.resources
+D:\Документы\oop\OOP zadanie 2\oop_zadanie_2\oop_zadanie_2\obj\Debug\oop_zadanie_2.Properties.Resources.resources
+D:\Документы\oop\OOP zadanie 2\oop_zadanie_2\oop_zadanie_2\obj\Debug\oop_zadanie_2.csproj.GenerateResource.Cache
+D:\Документы\oop\OOP zadanie 2\oop_zadanie_2\oop_zadanie_2\bin\Debug\oop_zadanie_2.exe
+D:\Документы\oop\OOP zadanie 2\oop_zadanie_2\oop_zadanie_2\bin\Debug\oop_zadanie_2.pdb
+D:\Документы\oop\OOP zadanie 2\oop_zadanie_2\oop_zadanie_2\obj\Debug\oop_zadanie_2.csprojResolveAssemblyReference.cache
+D:\Документы\oop\OOP zadanie 2\oop_zadanie_2\oop_zadanie_2\obj\Debug\oop_zadanie_2.exe
+D:\Документы\oop\OOP zadanie 2\oop_zadanie_2\oop_zadanie_2\obj\Debug\oop_zadanie_2.pdb
