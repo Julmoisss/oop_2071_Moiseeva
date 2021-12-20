@@ -19,17 +19,15 @@ namespace oop2
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int number;
+            int num1;
+            int num2;
+            int den1;
+            int den2;
 
-            bool result1 = int.TryParse(textBox1.Text, out number);
-            bool result2 = int.TryParse(textBox2.Text, out number);
-            bool result3 = int.TryParse(textBox3.Text, out number);
-            bool result4 = int.TryParse(textBox4.Text, out number);
-
-            int num1 = Convert.ToInt32(textBox1.Text);
-            int den1 = Convert.ToInt32(textBox2.Text);
-            int num2 = Convert.ToInt32(textBox3.Text);
-            int den2 = Convert.ToInt32(textBox4.Text);
+            bool result1 = int.TryParse(textBox1.Text, out num1);
+            bool result2 = int.TryParse(textBox2.Text, out den1);
+            bool result3 = int.TryParse(textBox3.Text, out num2);
+            bool result4 = int.TryParse(textBox4.Text, out den2);
 
             Rational r1 = new Rational(num1, den1);
             Rational r2 = new Rational(num2, den2);
